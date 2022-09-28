@@ -8,8 +8,22 @@
 
 [Link](https://www.youtube.com/)
 
-![Image]([http://url/a.png](https://students.ucsd.edu/_images/_homepage-slider/library-yellow-flowers.jpg))
+![Image]
+
+* one
+* two
+* three
 
 1. one
 2. two
 3. three
+
+---
+
+`Inline code`
+
+```
+Hello, World!
+Hello, World!
+Hello, World!
+```
