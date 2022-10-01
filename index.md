@@ -1,3 +1,0 @@
-# Hellow, World!
----
-**Yangang Xu**
