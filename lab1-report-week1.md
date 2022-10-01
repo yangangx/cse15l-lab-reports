@@ -34,7 +34,7 @@
 ## Write down in notes
 **When you’re done, discuss what you saw upon login. Take a screenshot or copy/paste the output. Did you all see the same thing? What might the differences mean? Note the results of your discussion in the notes document.**
 
-**When I tried to login for the first time, I don’t know why It did not work for me. I tried to use my student account to login, it works. I tried to login using the course-specific account for CSE15L today, it worked for me today.**
+**When I tried to log in for the first time, I didn’t know why It did not work for me. I tried to use my student account to log in, and it works. I tried logging in using the course-specific account for CSE15L today, and it worked for me.**
 
 ## Part 5 – Run Some Commands
 ![Image](part5.png)
@@ -52,7 +52,7 @@
 
 **What’s different about the output when you run this on the client vs. the server? What does this mean for what getProperty does?**
 
-**I am unable to run the code on my mac because i did not download the Java on the mac, but it works on the remote computers. The getProperty used to show the system, account and the location.**
+**I can't run the code on my mac because I did not download the Java on the mac, but it works on remote computers. The getProperty is used to show the system, account, and location.**
 
 ## Part 7 – SSH Keys
 
@@ -80,20 +80,3 @@
 **If you didn’t get everything to work, that’s OK! Keep trying and make sure your tutor knows if you’re totally stuck getting something set up; we’ll be posting some office hours soon where you can come to get unstuck as well.**
 
 **Before you leave the lab, head to the assignment “Lab1 Participation” on Gradescope and complete it. It only has a couple of questions and is not going to take more than 2 minutes. This assignment will be used to award you participation credit for this lab. Please note that you will be receiving full credit for participation only if you have attended the lab in-person and actively engaged in discussions with your group.**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
