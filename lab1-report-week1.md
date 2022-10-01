@@ -63,7 +63,7 @@
 
 **Repeat the timing experiment of editing and running WhereAmI.java now that you don’t have to use a password. How much time is saved per run?**
 
-**It will save 10 seconds per run, if I don’t have to type in the password.**
+**It will save 10 seconds per run if I don’t have to type in the password.**
 
 ## Part 8 – Making Remote Running Even More Pleasant
 
