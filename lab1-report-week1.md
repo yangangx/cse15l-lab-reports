@@ -60,6 +60,7 @@
 ## Part 7 – SSH Keys
 
 ![Image](part7.png)
+
 ![Image](part7-1.png)
 
 ## Write down in notes:
