@@ -7,7 +7,6 @@
 * ## Setting an SSH Key
 * ## Optimizing Remote Running
 
-
 ## Part 1 – Meet Your Group!
 
 * Name
@@ -30,7 +29,9 @@
 **The VScode is easy to download for me. I just followed the instructions, then I downloaded the VScode successfully.**
 
 ## Part 4 – Remotely Connecting - 15 mins
+
 ![Image](part4.png)
+
 ## Write down in notes
 **When you’re done, discuss what you saw upon login. Take a screenshot or copy/paste the output. Did you all see the same thing? What might the differences mean? Note the results of your discussion in the notes document.**
 
@@ -64,6 +65,7 @@
 **Repeat the timing experiment of editing and running WhereAmI.java now that you don’t have to use a password. How much time is saved per run?**
 
 **It will save 10 seconds per run if I don’t have to type in the password.**
+
 
 ## Part 8 – Making Remote Running Even More Pleasant
 
