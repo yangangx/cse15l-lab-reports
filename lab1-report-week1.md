@@ -51,6 +51,9 @@
 
 ![Image](part6.png)
 
+
+
+
 ## Write an answer in notes:
 
 **What’s different about the output when you run this on the client vs. the server? What does this mean for what getProperty does?**
