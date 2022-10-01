@@ -1,5 +1,6 @@
 # Lab1-reports-week1
 
+
 * ## Installing VScode
 * ## Remotely Connecting
 * ## Trying Some Commands
@@ -7,11 +8,13 @@
 * ## Setting an SSH Key
 * ## Optimizing Remote Running
 
+
 ## Part 1 – Meet Your Group!
 
 * Name
 * How you’d like people to refer to you (nickname, pronouns like he/her /they, etc)
 * If you could be a kitchen appliance, what one would you be and why?
+
 * Yangang Xu
 * Computer science
 * Pot
