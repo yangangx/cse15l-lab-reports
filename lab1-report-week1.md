@@ -18,6 +18,7 @@
 * Yangang Xu
 * Computer science
 * Pot
+* My favorite place you’ve found on campus so far is the game room. I go there two or three times a week. I usally play games and study there with my frinds.
 
 ## Part 2 – Your CSE15L Account
 
@@ -28,7 +29,7 @@
 ## Write down in notes: 
 **Everyone should share a screenshot of VScode open – help folks figure it out if it won’t install. If someone gets stuck, take a screenshot of the error message or point at which they are stuck so we can help them figure it out later, and they can decide to keep trying (potentially with the tutor helping) or move on.**
 
-**The VScode is easy to download for me. I just followed the instructions, then I downloaded the VScode successfully.**
+**I go the the Visual Studio Code website, then There is a button on the left, it shows download mac universal, Becuase My laptop is mac, so I choose the macOS version to download. After I download it into my labtop, I follow the instruction to install it on my labtop. Then it works for me. The picture above is when I open my VScode.**
 
 ## Part 4 – Remotely Connecting - 15 mins
 
@@ -37,7 +38,7 @@
 ## Write down in notes
 **When you’re done, discuss what you saw upon login. Take a screenshot or copy/paste the output. Did you all see the same thing? What might the differences mean? Note the results of your discussion in the notes document.**
 
-**When I tried to log in for the first time, I didn’t know why It did not work for me. I tried to use my student account to log in, and it works. I tried logging in using the course-specific account for CSE15L today, and it worked for me.**
+**I looked my account and changed the password, but I still unable to log in to the reomte server. After I tried many times, I try to use my student account to log in, and it works.**
 
 ## Part 5 – Run Some Commands
 ![Image](part5.png)
