@@ -37,7 +37,6 @@
 
 
 ## Write down in notes
-**When you’re done, discuss what you saw upon login. Take a screenshot or copy/paste the output. Did you all see the same thing? What might the differences mean? Note the results of your discussion in the notes document.**
 
 **I looked my account and changed the password, but I still unable to log in to the reomte server. After I tried many times, I try to use my student account to log in, and it works.  I use the my student account in the lab time, but after the lab time, I try my CSE 15l account, it work, then i use my cse 15l account did the lab one more time.**
 
