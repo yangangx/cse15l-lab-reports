@@ -77,4 +77,4 @@
 
 ## Write down in notes:
 
-**we can type to command at once, but for the command ls we have to use dougble quotation mark, then we can see all directory that we have on the remote server.and wo also can run  multiple commands on the same line, but i have to add semicolon between each command. if we run multiple commands on the same line, we can run more than one commands once, it will easier for us. 
+**we can type to command at once, but for the command ls we have to use dougble quotation mark, then we can see all directory that we have on the remote server.and wo also can run  multiple commands on the same line, but i have to add semicolon between each command. if we run multiple commands on the same line, we can run more than one commands once, it will easier for us.** 
