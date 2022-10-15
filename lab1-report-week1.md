@@ -47,7 +47,7 @@
 ## Write down in notes:
 **Copy at least one example from each group member, with an explanation, into your shared notes doc.**
 
-**I run some commands on the mac, it works. I think I am not that familiar with it now, but after using those commands a few times, I will become familiar with them. I tried to use command cd to change the directory, use ls to list file and folder, use mkdir to make a new directory* and use pwd to print current directory**
+**I run some commands on the mac, it works. I think I am not that familiar with it now, but after using those commands a few times, I will become familiar with them. I tried to use command cd to change the directory, use ls to list file and folder, use mkdir to make a new directory and use pwd to print current directory**
 
 ## Part 6 – Moving Files over SSH with scp
 ![Image](6.png)
