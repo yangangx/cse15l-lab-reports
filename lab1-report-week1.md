@@ -32,24 +32,26 @@
 **I go the the Visual Studio Code website, then There is a button on the left, it shows download mac universal, Becuase My laptop is mac, so I choose the macOS version to download. After I download it into my labtop, I follow the instruction to install it on my labtop. Then it works for me. The picture above is when I open my VScode.**
 
 ## Part 4 – Remotely Connecting - 15 mins
-
+![Image](4.png)
 ![Image](part4.png)
+
 
 ## Write down in notes
 **When you’re done, discuss what you saw upon login. Take a screenshot or copy/paste the output. Did you all see the same thing? What might the differences mean? Note the results of your discussion in the notes document.**
 
-**I looked my account and changed the password, but I still unable to log in to the reomte server. After I tried many times, I try to use my student account to log in, and it works.**
+**I looked my account and changed the password, but I still unable to log in to the reomte server. After I tried many times, I try to use my student account to log in, and it works.  I use the my student account in the lab time, but after the lab time, I try my CSE 15l account, it work, then i use my cse 15l account did the lab one more time.**
 
 ## Part 5 – Run Some Commands
+
 ![Image](part5.png)
 
 ## Write down in notes:
 **Copy at least one example from each group member, with an explanation, into your shared notes doc.**
 
-**I run some commands on the mac, it works. I think I am not that familiar with it now, but after using those commands a few times, I will become familiar with them.**
+**I run some commands on the mac, it works. I think I am not that familiar with it now, but after using those commands a few times, I will become familiar with them. I tried to use command cd to change the directory, use ls to list file and folder, use mkdir to make a new directory* and use pwd to print current directory**
 
 ## Part 6 – Moving Files over SSH with scp
-
+![Image](6.png)
 ![Image](part6.png)
 
 
@@ -57,9 +59,7 @@
 
 ## Write an answer in notes:
 
-**What’s different about the output when you run this on the client vs. the server? What does this mean for what getProperty does?**
-
-**I can't run the code on my mac because I did not download the Java on the mac, but it works on remote computers. The getProperty is used to show the system, account, and location.**
+**I can't run the code on my mac because I did not download the Java on the mac, but it works on remote computers. The getProperty is used to show the system, account, and location. We use the command scp to move the file from our computer to the sever. after we move the file into the server, I can use ls to show all the file in the server, if we want to run it, we have to compile is first, then we can run it. we use the same comand to compile and run it on the server.**
 
 ## Part 7 – SSH Keys
 
@@ -69,9 +69,8 @@
 
 ## Write down in notes:
 
-**Repeat the timing experiment of editing and running WhereAmI.java now that you don’t have to use a password. How much time is saved per run?**
 
-**It will save 10 seconds per run if I don’t have to type in the password.**
+**we can use ssh-keygen to creat a file, it called pubilc key and private hey, those key will store in our computer or the server, we can use mkdir to make a new directory to store the key, the directory has to be with .ssh. after that, the command ssh can use it in palce of the password. it will be much easier for us, beacuse we don't have to type the pasword all time.**
 
 ## Part 8 – Making Remote Running Even More Pleasant
 
@@ -79,12 +78,4 @@
 
 ## Write down in notes:
 
-**First try using just what we learned in this lab, and document the best process you came up with. Try to get the total time for a run after editing and saving to under 10 total keystrokes/mouse clicks, including all typing. A “keystroke” is pressing one key on your keyboard. For example, pressing the up arrow counts as one keystroke, and typing “java” counts as 4.**
-
-## Part 9 – Wrapup
-
-**Discuss with your team – do you have any open questions about things you saw that you don’t understand? Write them down in your notes document or ask your tutor. Even if they don’t know, writing them down means we can come back to them later!**
-
-**If you didn’t get everything to work, that’s OK! Keep trying and make sure your tutor knows if you’re totally stuck getting something set up; we’ll be posting some office hours soon where you can come to get unstuck as well.**
-
-**Before you leave the lab, head to the assignment “Lab1 Participation” on Gradescope and complete it. It only has a couple of questions and is not going to take more than 2 minutes. This assignment will be used to award you participation credit for this lab. Please note that you will be receiving full credit for participation only if you have attended the lab in-person and actively engaged in discussions with your group.**
+**we can type to command at once, but for the command ls we have to use dougble quotation mark, then we can see all directory that we have on the remote server.and wo also can run  multiple commands on the same line, but i have to add semicolon between each command. if we run multiple commands on the same line, we can run more than one commands once, it will easier for use. 
