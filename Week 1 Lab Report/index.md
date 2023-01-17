@@ -13,4 +13,4 @@ For remote connection, you have to check your account for CSE 15L from the websi
 
 ## Trying Some Commands
 ![Image](Lab1-5.png)
-You can use the terminal to run some commands both on your computer and the remote computer, like in the picture above. You can use Control + D or enter the command exit to log out of the remote server in your terminal. ls means list directory, pwd means print working directory. And also, you can try some other commands, like cd, mkdir. The command cd is used to change the directory. The command mkdir is used to make a new directory.
+You can use the terminal to run some commands both on your computer and the remote computer, like in the picture above. ls means list directory, pwd means print working directory. You can use Control + D or enter the command exit to log out of the remote server in your terminal. And also, you can try some other commands, like cd, mkdir. The command cd is used to change the directory. The command mkdir is used to make a new directory.
