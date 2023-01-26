@@ -1,5 +1,7 @@
 # CSE 15L Lab Report
 
+## Lab Report 1
+
 ## Installing VScode
 ![Image](Lab1-3.png)
 The first step is installing the Visual Studio Code from the website, "https://code.visualstudio.com/". When you open the website, there are three different versions of Visual Studio Code, macOS, Windows x64, and Linus 64. Choose the one that is the same as your laptop or computer. After you install it, you can open it and see the window that looks like the picture above. Then, you can click the terminal button from the menu option on top of your screen to open a new terminal and run some commands. You can also control + shift + ` to open a new terminal.
