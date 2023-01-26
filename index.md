@@ -1,5 +1,3 @@
-# CSE 15L Lab Report
-
 ## Lab Report 1
 
 ## Installing VScode
